@@ -24,6 +24,8 @@ In most of the examples I've seen, an S3 bucket is changed, added, or deleted, r
 So it appears as if my pipeline can handle a number of requests; the only caveat would be whether or not basketball reference chooses to block my api address for repeated attempts at scraping their website. The resulting output makes it such that the called table is now put into an S3 bucket with a in the form of a csv which allows for editing of documents. In addition to scraping NBA data this, drew parallels between this and when I worked in IT consulting and had to run status reports on newly acquired data. I think having access to something such as this would make life easier through automation. 
 
 
+<img width="1069" alt="s3 bucket" src="https://user-images.githubusercontent.com/69828169/100198084-59831880-2ec9-11eb-86e5-cafcdf7288c6.png">
+
 
 
 
